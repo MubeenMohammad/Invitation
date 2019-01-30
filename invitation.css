@@ -362,13 +362,7 @@
         height: auto;
         border-radius: 15px;
     }
-    /* .thanks-p{
-        padding-top: 3%;
-        text-align: center;
-        font-family: 'Charmonman', cursive;
-        font-size: 20px;
-        font-weight: bolder;
-    } */
+
 }
 @media only screen and (min-width:360px) and (max-width: 640px) {
     .main-h2{
