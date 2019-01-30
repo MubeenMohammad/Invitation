@@ -232,7 +232,11 @@
     font-size: 20px;
     font-weight: bolder;
 }
-
+.bottom{
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Cookie', cursive;
+}
 /* ********* MOBILE RESPONSIVE ************* */
 @media only screen and (min-width:375px) and (max-width: 667px) {
     .main-h2{
