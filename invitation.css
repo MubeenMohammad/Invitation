@@ -50,6 +50,13 @@
     font-family: 'Ubuntu Condensed', sans-serif;
     font-size: 25px;
 }
+.overlay-img {
+    width: 50%;
+    border-radius: 25px;
+    margin-left: 51%;
+    margin-top: 2%;
+    opacity: 0.9;
+}
 #briefing{
     margin: 0%;
     padding: 0%;
@@ -86,7 +93,8 @@
     text-align: center;
     font-size: 70px;
     font-family: 'Cookie', cursive;
-    padding-left: 6% !important;
+    padding-lef
+    t: 6% !important;
     padding-right: 6% !important;
     padding-top: 5%;
     padding-bottom: 5%;
