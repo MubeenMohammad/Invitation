@@ -392,6 +392,13 @@
         font-family: 'Ubuntu Condensed', sans-serif;
         font-size: 10px;
     }
+    .overlay-img {
+        height: 50%;
+        width: 37%;
+        border-radius: 15px;
+        margin-left: 74%;
+        opacity: 0.9;
+    }
     .car-data{
         display: none;
     }
